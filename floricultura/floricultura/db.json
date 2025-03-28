@@ -1,0 +1,140 @@
+{
+    "produtos": [
+      {
+        "id": 1,
+        "nome": "Buquê de Rosas Vermelhas",
+        "descricao": "Um elegante buquê com 12 rosas vermelhas, perfeito para ocasiões românticas.",
+        "preco": 120.00,
+        "categoria": "buquês",
+        "disponibilidade": true,
+        "imagem": "https://example.com/rosas-vermelhas.jpg"
+      },
+      {
+        "id": 2,
+        "nome": "Buquê de Girassóis",
+        "descricao": "Buquê vibrante com 6 girassóis frescos, ideal para iluminar o dia de alguém.",
+        "preco": 95.00,
+        "categoria": "buquês",
+        "disponibilidade": true,
+        "imagem": "https://example.com/girassois.jpg"
+      },
+      {
+        "id": 3,
+        "nome": "Orquídea Branca",
+        "descricao": "Linda orquídea branca em vaso de cerâmica, trazendo elegância para qualquer ambiente.",
+        "preco": 150.00,
+        "categoria": "vasos",
+        "disponibilidade": true,
+        "imagem": "https://example.com/orquidea-branca.jpg"
+      },
+      {
+        "id": 4,
+        "nome": "Arranjo de Flores do Campo",
+        "descricao": "Arranjo colorido com flores do campo variadas, ideal para presentear.",
+        "preco": 80.00,
+        "categoria": "arranjos",
+        "disponibilidade": true,
+        "imagem": "https://example.com/flores-do-campo.jpg"
+      },
+      {
+        "id": 5,
+        "nome": "Vaso de Suculentas",
+        "descricao": "Pequeno vaso com suculentas diversas, perfeito para decoração e fácil de cuidar.",
+        "preco": 45.00,
+        "categoria": "vasos",
+        "disponibilidade": false,
+        "imagem": "https://example.com/suculentas.jpg"
+      },
+      {
+        "id": 6,
+        "nome": "Buquê de Tulipas",
+        "descricao": "Lindo buquê com 10 tulipas coloridas, perfeito para surpreender alguém especial.",
+        "preco": 130.00,
+        "categoria": "buquês",
+        "disponibilidade": true,
+        "imagem": "https://example.com/tulipas.jpg"
+      },
+      {
+        "id": 7,
+        "nome": "Lírios Brancos",
+        "descricao": "Arranjo elegante com lírios brancos perfumados em um vaso de vidro.",
+        "preco": 140.00,
+        "categoria": "arranjos",
+        "disponibilidade": true,
+        "imagem": "https://example.com/lirios-brancos.jpg"
+      },
+      {
+        "id": 8,
+        "nome": "Mini Cactos",
+        "descricao": "Kit com 3 mini cactos em vasos de cerâmica, ideais para decoração de escritórios e ambientes internos.",
+        "preco": 60.00,
+        "categoria": "vasos",
+        "disponibilidade": true,
+        "imagem": "https://example.com/mini-cactos.jpg"
+      },
+      {
+        "id": 9,
+        "nome": "Coroa de Flores",
+        "descricao": "Arranjo especial para homenagens, com flores brancas e detalhes verdes.",
+        "preco": 250.00,
+        "categoria": "arranjos",
+        "disponibilidade": true,
+        "imagem": "https://example.com/coroa-flores.jpg"
+      },
+      {
+        "id": 10,
+        "nome": "Buquê Misto",
+        "descricao": "Buquê variado com rosas, margaridas e astromélias, trazendo um toque especial para qualquer ocasião.",
+        "preco": 110.00,
+        "categoria": "buquês",
+        "disponibilidade": true,
+        "imagem": "https://example.com/buque-misto.jpg"
+      },
+      {
+        "id": 11,
+        "nome": "Orquídea Roxa",
+        "descricao": "Orquídea exótica roxa em um belo vaso de vidro.",
+        "preco": 170.00,
+        "categoria": "vasos",
+        "disponibilidade": false,
+        "imagem": "https://example.com/orquidea-roxa.jpg"
+      },
+      {
+        "id": 12,
+        "nome": "Arranjo Tropical",
+        "descricao": "Composição de flores tropicais vibrantes, incluindo helicônias e alpínias.",
+        "preco": 200.00,
+        "categoria": "arranjos",
+        "disponibilidade": true,
+        "imagem": "https://example.com/arranjo-tropical.jpg"
+      },
+      {
+        "id": 13,
+        "nome": "Violeta Roxa",
+        "descricao": "Pequeno vaso de violetas roxas, perfeito para presentear ou decorar ambientes internos.",
+        "preco": 35.00,
+        "categoria": "vasos",
+        "disponibilidade": true,
+        "imagem": "https://example.com/violeta-roxa.jpg"
+      },
+      {
+        "id": 14,
+        "nome": "Jardim Zen com Bonsai",
+        "descricao": "Pequeno jardim zen com um bonsai cuidadosamente cultivado.",
+        "preco": 300.00,
+        "categoria": "vasos",
+        "disponibilidade": true,
+        "imagem": "https://example.com/jardim-zen-bonsai.jpg"
+      },
+      {
+        "id": 15,
+        "nome": "Buquê de Flores Secas",
+        "descricao": "Buquê rústico feito com flores secas, ideal para decoração duradoura.",
+        "preco": 90.00,
+        "categoria": "buquês",
+        "disponibilidade": true,
+        "imagem": "https://example.com/flores-secas.jpg"
+      }
+    ]
+  }
+  
